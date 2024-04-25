@@ -1,0 +1,16 @@
+# env variables
+.env
+
+# virtualenv
+.venv/
+
+# pycache
+**/__pycache__/
+
+# Data
+commuting_zones/
+D&B/
+
+# RA instructions
+RA Instructions*
+TODO.md
