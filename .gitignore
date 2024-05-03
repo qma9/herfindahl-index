@@ -7,10 +7,21 @@
 # pycache
 **/__pycache__/
 
+# vscode settings
+.vscode
+
 # Data
 commuting_zones/
 D&B/
+mapping/
+market_concentration/
+geocode/
+zips/
 
 # RA instructions
-RA Instructions*
+instructions/
 TODO.md
+extras.py
+
+# log
+log/
