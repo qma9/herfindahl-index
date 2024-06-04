@@ -1,4 +1,4 @@
-# Introduction
+# Description
 
 Code for calculating Herfindahl Index of labour concentration by commuting zone and industry from Dun & Bradstreet (D&B) data from 1990. Index is also calculated using market share of sales by commuting zone and industry.
 
